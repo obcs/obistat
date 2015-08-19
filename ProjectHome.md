@@ -1,0 +1,1 @@
+OBIstat is a subset and extension of the statistics part of the Ontology for Biomedical Investigations (OBI).
